@@ -23,7 +23,7 @@ The goal is to extract business insights such as top products, top customers, an
 3. Total revenue per customer
 4. Top 3 customers by revenue
 5. Ranking customers using RANK()
-6. Monthly revenue analysis
+
 
 ---
 
